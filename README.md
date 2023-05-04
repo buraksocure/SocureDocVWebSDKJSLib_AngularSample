@@ -4,7 +4,9 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 Run `ng serve`
 
-Screenshot that shows sessionId returned from Socure Sigma Device JS Lib
+Screenshot that shows DocV WebSDK JS Lib initiated
+
+Note : Make sure to enter your SDK key in the app.component.ts file.
 
 <img src="https://github.com/buraksocure/SocureDocVWebSDKJSLib_AngularSample/blob/36a8bf5ee0a700c86970f301653041db3e9fb16e/readmeimage.png"/>
 
